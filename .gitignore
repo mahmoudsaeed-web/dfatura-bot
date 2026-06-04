@@ -1,3 +1,4 @@
 .env
+video_cache.json
 __pycache__/
 *.pyc
